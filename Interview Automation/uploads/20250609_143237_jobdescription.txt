@@ -1,0 +1,35 @@
+Job Title: AI/ML Engineer
+
+Location: Bangalore/Remote  
+Company: NeuralCore Technologies Pvt. Ltd.  
+Type: Full-time | Hybrid
+
+Job Summary:
+We are looking for an innovative and experienced AI/ML Engineer to join our R&D team. The candidate will be responsible for designing, developing, and deploying AI and machine learning models for intelligent systems in healthcare, finance, and automation.
+
+Key Responsibilities:
+•⁠  ⁠Develop and maintain scalable ML and deep learning models.
+•⁠  ⁠Conduct experiments with state-of-the-art architectures (CNNs, RNNs, Transformers).
+•⁠  ⁠Work with data scientists and software engineers to implement end-to-end ML pipelines.
+•⁠  ⁠Preprocess and analyze large datasets using data engineering best practices.
+•⁠  ⁠Evaluate model performance using appropriate metrics and visualization tools.
+•⁠  ⁠Deploy models on cloud platforms (AWS, Azure) and optimize for latency and throughput.
+•⁠  ⁠Collaborate with cross-functional teams and contribute to product innovation.
+
+Requirements:
+•⁠  ⁠Bachelor's or Master's degree in Computer Science, AI, Data Science, or a related field.
+•⁠  ⁠2+ years of experience in AI/ML development.
+•⁠  ⁠Strong proficiency in Python and ML libraries like TensorFlow, PyTorch, and Scikit-learn.
+•⁠  ⁠Experience with NLP, computer vision, or time-series analysis.
+•⁠  ⁠Knowledge of data structures, algorithms, and software engineering principles.
+•⁠  ⁠Experience with cloud technologies and containerization (Docker, Kubernetes) is a plus.
+•⁠  ⁠Strong communication and problem-solving skills.
+
+Nice to Have:
+•⁠  ⁠Experience with Reinforcement Learning, AutoML, or Explainable AI (XAI).
+•⁠  ⁠Contributions to open-source projects or research publications.
+
+Salary: ₹12–18 LPA based on experience  
+Deadline to Apply: 30th June 2025
+
+To Apply: careers@neuralcoretech.in

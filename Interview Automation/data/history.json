@@ -1,0 +1,26 @@
+[
+  {
+    "question": "You've used XGBoost and Random Forest for candidate evaluation. Can you describe a scenario where you would choose one over the other, considering the trade-offs between bias, variance, and interpretability?",
+    "answer": "why are you not generating man why"
+  },
+  {
+    "question": "Your KisanSarthi project integrates CNNs and LLMs for disease prediction. Can you explain the specific architecture you used and how you addressed the challenges of integrating these two different types of models?",
+    "answer": "I am under the water sorry"
+  },
+  {
+    "question": "In your PersonaEye project, you used RAG and buffer memory. How did you evaluate the effectiveness of the chatbot's advice, and what metrics did you use to measure its performance?",
+    "answer": "han okay okay"
+  },
+  {
+    "question": "You have experience with digital twins in medicine from your internship. How do you envision AI further enhancing the application of digital twins in personalized healthcare beyond diagnostics?",
+    "answer": "<user_input_required>"
+  },
+  {
+    "question": "The job description mentions the need for data preprocessing. Can you describe a challenging data preprocessing task you faced in one of your projects and how you overcame it?",
+    "answer": "<user_input_required>"
+  },
+  {
+    "question": "This role involves deploying AI solutions. Based on your experience, what are some key considerations for deploying AI models into production, focusing on aspects like scalability, monitoring, and maintenance?",
+    "answer": "<user_input_required>"
+  }
+]

@@ -1,0 +1,29 @@
+# Web framework and utilities
+Flask
+Werkzeug
+python-dotenv
+
+# Email and document processing
+email-validator
+python-docx
+PyPDF2
+docx2txt
+pdfminer.six
+
+# OpenAI / Gemini client
+openai
+google-genai  # to cover "from google import genai" (adjust if you use another)
+
+# Machine learning and embeddings
+numpy
+scikit-learn
+sentence-transformers
+torch
+scipy
+
+# Voice utils dependencies
+webrtcvad
+resemblyzer
+
+# (Optional) add here any other dependencies your project may require
+

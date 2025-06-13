@@ -1,0 +1,9 @@
+Q: You've used XGBoost and Random Forest for candidate evaluation. Can you describe a scenario where you would choose one over the other, considering the trade-offs between bias, variance, and interpretability?
+A: why are you not generating man why
+
+Q: Your KisanSarthi project integrates CNNs and LLMs for disease prediction. Can you explain the specific architecture you used and how you addressed the challenges of integrating these two different types of models?
+A: I am under the water sorry
+
+Q: In your PersonaEye project, you used RAG and buffer memory. How did you evaluate the effectiveness of the chatbot's advice, and what metrics did you use to measure its performance?
+A: han okay okay
+
