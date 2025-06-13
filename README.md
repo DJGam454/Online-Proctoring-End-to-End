@@ -84,12 +84,3 @@ Watch the demo here: [https://youtu.be/O8kfFmwkfOU](https://youtu.be/O8kfFmwkfOU
 ## Contributors
 - **Ramdular Yadav** (Lead Developer)
 
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries or contributions, feel free to reach out to:
-- **Email**: 077bct066@ioepc.edu.np
-- **Phone**: 9819936338
-
