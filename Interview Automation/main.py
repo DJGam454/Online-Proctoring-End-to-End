@@ -2,7 +2,7 @@ import os
 import json
 from pathlib import Path
 from docx import Document
-import PyPDF2
+from pypdf import PdfReader as _PdfReader
 from dotenv import load_dotenv
 from google import genai
 
@@ -32,7 +32,7 @@ def extract_text(path: str) -> str:
     elif ext == "pdf":
         text = ""
         with open(path, 'rb') as f:
-            reader = PyPDF2.PdfReader(f)
+            reader = _PdfReader(f)
             for page in reader.pages:
                 text += page.extract_text() or ""
         return text
